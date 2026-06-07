@@ -2,23 +2,23 @@
   "prayerTimes": [
     {
       "name": "ফজর",
-      "time": "04:15 AM"
+      "Fajr": "04:15 AM"
     },
     {
       "name": "যোহর",
-      "time": "12:05 PM"
+      "Dhuhr": "12:05 PM"
     },
     {
       "name": "আসর",
-      "time": "04:30 PM"
+      "Asr": "04:30 PM"
     },
     {
       "name": "মাগরিব",
-      "time": "06:25 PM"
+      "Maghrib": "06:25 PM"
     },
     {
       "name": "এশা",
-      "time": "07:45 PM"
+      "Isha": "07:45 PM"
     }
   ]
 }
